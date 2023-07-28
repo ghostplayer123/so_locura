@@ -1,0 +1,23 @@
+.container{
+    background-color: aquamarine;
+    grid-template-columns: 50% 50%;
+    display: block;
+
+}
+.container__titulo{
+    display: flex;
+    width: 10%;
+
+    
+}
+.container__menu{
+    margin-left: 900px;
+    display: flex;
+    
+}
+.container__titulo__texto{
+    margin-left: 600px;
+}
+.chunin{
+    margin-right: 10px;
+}
